@@ -6,7 +6,8 @@ For example, when a news article about a company's success is published, the sto
 Also, this app gives historial data of any stocks
 
 </h3>
-## Getting Started
+
+<h1>-Getting Started</h1>
 
 First, install the dependencies:
 
