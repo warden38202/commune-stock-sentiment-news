@@ -1,4 +1,4 @@
-## Sentiment News
+<h1>Sentiment News</h1> 
 <h3>
  Sentiment News is a web app dedicated to exploring the relationship between financial news article sentiment and the price action of related stocks. 
 The goal of this project was to quantify how positive or negative sentiment in news articles can influence stock price fluctuations. </br>
