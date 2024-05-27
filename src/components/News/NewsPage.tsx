@@ -1,7 +1,7 @@
 "use client";
 import { useState, useEffect, useContext } from "react";
 import axios from "axios";
-
+//
 import { Article } from "@/src/types/Article";
 import {
   SearchContext,
