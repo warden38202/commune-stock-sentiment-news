@@ -1,3 +1,9 @@
+<h2>Stock Sentiment News</h2>
+Sentiment News is a web app dedicated to exploring the relationship between financial news article sentiment and the price action of related stocks. 
+The goal of this project was to quantify how positive or negative sentiment in news articles can influence stock price fluctuations. 
+For example, when a news article about a company's success is published, the stock price of that company is expected to increase. 
+This app creates insights into this phenomenon by analyzing news article sentiment and correlating it with stock price changes.
+And cag get real time detailed information over 15000 stock
 <h3>Getting Started</h3>
 
 First, install the dependencies:
